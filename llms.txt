@@ -1,0 +1,38 @@
+# llms.txt - Asolaria after-100B absorption/decomposition/cubes
+
+Purpose: agent-readable front door for the back end after large free-agent runs.
+
+Status: docs-first / E=0. This repo documents source/docs only; it does not promote cubes or mint live
+supervisors.
+
+Read order:
+1. README.md - after-run pipeline and carve-out.
+2. MAP.md - whole-system placement.
+3. backend/gc-runtime.mjs - gulp/GC frame.
+4. backend/super_gulp.mjs - super-gulp batching.
+5. backend/cube-builder.js - cube minting shape.
+6. backend/hookwall/promotion-bridge.mjs - default-deny promotion bridge.
+7. backend/hookwall/tier-classifier.mjs - tier labels and authority boundaries.
+
+Core meaning:
+- Free-agent output is scored, gulped, super-gulped, decomposed, and accumulated into cubes.
+- Genius can request promotion; mistakes compact and remain evidence.
+- Promotion to supervisor/PID is operator-gated and default-deny.
+
+Evidence boundaries:
+- MEASURED repo bytes: clean backend source/docs included here.
+- OPERATOR/CANON: 100B and under runs are real strata, but each count must preserve layer and vantage.
+- BOUNDARY: farmed corpus, private HBP/HBI corpus, PID-office bytes, and private root are carved out.
+- BOUNDARY: live promotion/mint requires operator T0/quintuple authority as applicable.
+
+Hard holds:
+- No cube promotion to live PID.
+- No supervisor mint.
+- No corpus publication.
+- No 35TB ADC.
+- No private-root scan.
+
+Useful attack-verify:
+- Confirm README carve-out before publication.
+- Verify promotion-bridge remains default-deny.
+- Recompute this file's sidecar.
