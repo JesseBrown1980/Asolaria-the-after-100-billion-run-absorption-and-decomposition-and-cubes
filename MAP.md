@@ -45,6 +45,7 @@ tables below to see where you are; follow the links to walk the rest.
 | `N-Nest-Prime-INFINITE-SELF-REFLECT-AGENTS-NESTED` | prime-nesting self-reflect + per-node correction gate |
 | `HYPER-BECHS--the-third-set` | published ledgers / interpretations / findings |
 | `Asolaria-gac-working` | GAC governance / authority seats |
+| `Q-PRISM` (proof repo) | **Prism/Comb 0-loss (2026-07-01)** — bijection/entropy-invariance law; 256↔1024 transcode rung MEASURED (commit `53023b6`: 3,200-byte cube tuple ⇄ 2,560 base-1024 symbols, sha256-identical round-trip); this repo's cube instance lives in README §5 |
 | `falcon-orbital` | frozen v57 canon (superseded by the 60D / Host-8 frame) |
 | `NOT-WEDGED-SYSTEM-RULE-and-explanation-Asolaria` | the slice-engine / freeze≠broken rule |
 | `-6-cyl-generator` | satellite generator |
